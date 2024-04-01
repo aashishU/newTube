@@ -22,4 +22,16 @@ _Live link_: [NewTube](https://newtubebyashish.netlify.app)
 
 - react-router-dom is used to create routes for different pages of the app.
 
+#### Deployment
+
+- The app is deployed on Netlify.com after the build.
+
 **WARNING : Due to API usage limits (500 requests/day), only a maximum of 50 movies can be retrieved per page load or search. Please use the app responsibly and refrain from excessive API requests**
+
+---
+
+_Source_ : [Build & Deploy YouTube Clone Application in React JS with Material UI 5 | RapidAPI](https://www.youtube.com/watch?v=FHTbsZEJspU)
+
+- Special Thanks to "JavaScript Mastery" for this informative guided project.
+
+---
